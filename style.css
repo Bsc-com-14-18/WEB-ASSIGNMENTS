@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    font-size: 78px;
+    font-family: Sans;
+}
+h2{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+h3{
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    padding: 5;
+}
+body{
+ font-size:14px;
+ line-height:1.5; 
+ padding: 6;
+ background-color: rgb(138, 133, 133) ;
+}
